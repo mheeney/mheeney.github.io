@@ -1,5 +1,9 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Michelle Heeney, and I am a driven young scientist currently working on my Ph.D. in Plant biology from Cornell University's School of Integrative Plant Sciences. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my undergraduate education, I earned two degrees in biology and math from the UMass Amherst Commonwealth Honors College. I am always looking to expand my knowledge of math modeling and developmental biology while experiencing various professional opportunities in industry and academia. I would like to build upon the biological knowledge that I have built as an independent researcher at Inari Agriculture, in the Bartlett Lab at UMass, as well as in the Ryder Lab at UMass Medical School.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As a student senator and biology peer advisor, I have also been able to give back to my community as well as build upon my communication, organization, event planning, and budget-balancing skills. I have been given opportunities to serve on hiring committees for new faculty as the undergraduate representative and work with full-time professors to host candidates; this helped me build upon my own leadership skills.
+
+I like to think critically and enjoy following a step-by-step process when it comes to problem-solving. However, I am also a creative person who loves learning new things and brainstorming innovative ideas. 
+
+Aside from this, I am passionate about art and love analyzing and learning about new forms of media and pieces. I have several award-winning oil paintings and linoleum block carvings.
