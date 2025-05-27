@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Michelle Heeney / Site Title"
+title                    : "Michelle Heeney, Ph.D. Candidate"
 title_separator          : "-"
 name                     : &name "Michelle Heeney"
-description              : &description "personal description"
+description              : &description "4th year Ph.D. Candidate"
 url                      : https://mheeney.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mheeney/mheeney.github.io"
@@ -295,7 +295,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: US/Eastern # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
