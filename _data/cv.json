@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Michelle Heeney",
+    "email": "mmh265@cornell.edu",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Ph.D. Candidate Cornell University. Roeder & Frank Labs. Plant Science Department.",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "postalCode": "14850",
+      "city": "Ithaca, NY",
       "countryCode": "US",
       "region": ""
     },
@@ -16,46 +16,46 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?hl=en&user=jlBY_rEAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0001-6734-0219"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "",
+        "url": "https://github.com/mheeney/"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Cornell University",
+      "area": "Ph.D. in Plant Biology",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "Fall 2021",
+      "endDate": "in progress",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Massachusetts Amherst",
+      "area": "B.S. in Mathematics, Statistics Concentration",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2015",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "University of Massachusetts Amherst",
+      "area": "B.S. in Biology",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2015",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     }
